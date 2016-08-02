@@ -64,6 +64,6 @@ Here is how the DeepMind team explained it in their paper [Mastering the Game of
 
 Put another way, winning at Go is a kind of Holy Grail for those who strive to create machines that can “think” on their own, because success at this uniquely complex game seems to require something more than just skill, knowledge, and experience. It requires intuition. Feel. Style. Characteristics we associate with humans, not with machines.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
-  &sup1; Garry Kasparov is a Russian chess Grandmaster and former World Chess Champion
-
+&sup1; Garry Kasparov is a Russian chess Grandmaster and former World Chess Champion
