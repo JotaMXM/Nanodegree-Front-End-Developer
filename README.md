@@ -2,6 +2,8 @@
 
 Desenvolvimento dos projetos e exercicícios resolvidos no **Curso - Desenvolvedor Front-End | Nanodegree**
 
+---------------------------------------------------------------------------------------------------------------------
+
 
 ### Desenvolvimento do projeto 01 (mockup to article) - Nanodegree | Front-End-Developer
 
