@@ -79,6 +79,8 @@ Put another way, winning at Go is a kind of Holy Grail for those who strive to c
 
 ------------------------------------------------------------------------------------------------------
 
+##Reflections.txt (Resolução)
+
 ##Responda às seguintes perguntas:
 
 - [x] 1. Quais novas habilidades você aprendeu?
