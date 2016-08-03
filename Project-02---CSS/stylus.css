@@ -1,0 +1,53 @@
+h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 3%;
+    font-size: 1.7em;
+}
+#image{
+    width: 300px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('Burro-16.jpg');
+    background-size: 100% auto;
+}
+#cardboard{
+    padding: 5px;
+    width: 320px;
+    border: 1px solid #BBB;
+    position: absolute;
+    margin-left: 35px;
+    background-color: white;
+    box-shadow: 20px 20px 85px -35px #999;
+    cursor: pointer;
+}
+#description{
+    margin-top: 10px;
+    width: 300px;
+    border: 1px solid #BBB;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+span{
+    font-weight: bold;
+}
+img{
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    position: relative;
+    left: 3%;
+}
+p {
+    padding: 0 15px 0 15px;
+}
+li{
+    list-style: none;
+}
+ul{
+    text-decoration: none;
+    padding-left: 15px;
+}
