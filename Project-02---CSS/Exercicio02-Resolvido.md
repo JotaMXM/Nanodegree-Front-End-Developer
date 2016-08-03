@@ -101,11 +101,11 @@
 ###Expectativa
 
 
-![Expectativa][expectativa.png]
+![Expectativa](img/expectativa.png)
 
 ###Resultado
 
+![Resultado](img/printexercises.png)
 
-![Resultado](printexercises.png)
 
 
