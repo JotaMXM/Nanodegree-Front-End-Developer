@@ -98,8 +98,14 @@
 ###Expectativa VS Resultado
 
 ----------------------------------------------------------------------------------------------------
+###Expectativa
 
-[!Objetivo](printexercises.png)
-[!Resultado](printexercices.png)
+
+![Expectativa][expectativa.png]
+
+###Resultado
+
+
+![Resultado](printexercises.png)
 
 
